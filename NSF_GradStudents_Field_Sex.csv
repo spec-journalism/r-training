@@ -1,0 +1,277 @@
+Year,Field,Sex,Count
+2016,Biological sciences,Male,330
+2016,Biological sciences,Female,460
+2016,Computer sciences,Male,437
+2016,Computer sciences,Female,125
+2016,Mathematics and statistics,Male,430
+2016,Mathematics and statistics,Female,401
+2016,Physical sciences,Male,186
+2016,Physical sciences,Female,76
+2016,Social sciences,Male,332
+2016,Social sciences,Female,353
+2016,Engineering,Male,1960
+2016,Engineering,Female,929
+2015,Biological sciences,Male,319
+2015,Biological sciences,Female,420
+2015,Computer sciences,Male,468
+2015,Computer sciences,Female,198
+2015,Mathematics and statistics,Male,448
+2015,Mathematics and statistics,Female,392
+2015,Physical sciences,Male,176
+2015,Physical sciences,Female,72
+2015,Social sciences,Male,295
+2015,Social sciences,Female,324
+2015,Engineering,Male,1811
+2015,Engineering,Female,770
+2014,Biological sciences,Male,317
+2014,Biological sciences,Female,443
+2014,Computer sciences,Male,435
+2014,Computer sciences,Female,157
+2014,Mathematics and statistics,Male,443
+2014,Mathematics and statistics,Female,338
+2014,Physical sciences,Male,178
+2014,Physical sciences,Female,78
+2014,Social sciences,Male,321
+2014,Social sciences,Female,338
+2014,Engineering,Male,1571
+2014,Engineering,Female,658
+2013,Biological sciences,Male,287
+2013,Biological sciences,Female,413
+2013,Computer sciences,Male,392
+2013,Computer sciences,Female,132
+2013,Mathematics and statistics,Male,352
+2013,Mathematics and statistics,Female,256
+2013,Physical sciences,Male,184
+2013,Physical sciences,Female,78
+2013,Social sciences,Male,331
+2013,Social sciences,Female,355
+2013,Engineering,Male,1376
+2013,Engineering,Female,589
+2012,Biological sciences,Male,294
+2012,Biological sciences,Female,380
+2012,Computer sciences,Male,352
+2012,Computer sciences,Female,115
+2012,Mathematics and statistics,Male,323
+2012,Mathematics and statistics,Female,191
+2012,Physical sciences,Male,175
+2012,Physical sciences,Female,91
+2012,Social sciences,Male,325
+2012,Social sciences,Female,380
+2012,Engineering,Male,1477
+2012,Engineering,Female,547
+2011,Biological sciences,Male,328
+2011,Biological sciences,Female,413
+2011,Computer sciences,Male,361
+2011,Computer sciences,Female,91
+2011,Mathematics and statistics,Male,277
+2011,Mathematics and statistics,Female,193
+2011,Physical sciences,Male,174
+2011,Physical sciences,Female,87
+2011,Social sciences,Male,313
+2011,Social sciences,Female,359
+2011,Engineering,Male,1311
+2011,Engineering,Female,463
+2010,Biological sciences,Male,332
+2010,Biological sciences,Female,408
+2010,Computer sciences,Male,328
+2010,Computer sciences,Female,101
+2010,Mathematics and statistics,Male,267
+2010,Mathematics and statistics,Female,151
+2010,Physical sciences,Male,182
+2010,Physical sciences,Female,90
+2010,Social sciences,Male,297
+2010,Social sciences,Female,331
+2010,Engineering,Male,1206
+2010,Engineering,Female,385
+2009,Biological sciences,Male,331
+2009,Biological sciences,Female,415
+2009,Computer sciences,Male,329
+2009,Computer sciences,Female,71
+2009,Mathematics and statistics,Male,244
+2009,Mathematics and statistics,Female,153
+2009,Physical sciences,Male,162
+2009,Physical sciences,Female,84
+2009,Social sciences,Male,299
+2009,Social sciences,Female,307
+2009,Engineering,Male,958
+2009,Engineering,Female,292
+2008,Biological sciences,Male,330
+2008,Biological sciences,Female,416
+2008,Computer sciences,Male,361
+2008,Computer sciences,Female,76
+2008,Mathematics and statistics,Male,243
+2008,Mathematics and statistics,Female,140
+2008,Physical sciences,Male,154
+2008,Physical sciences,Female,92
+2008,Social sciences,Male,280
+2008,Social sciences,Female,292
+2008,Engineering,Male,842
+2008,Engineering,Female,245
+2007,Biological sciences,Male,361
+2007,Biological sciences,Female,431
+2007,Computer sciences,Male,413
+2007,Computer sciences,Female,83
+2007,Mathematics and statistics,Male,232
+2007,Mathematics and statistics,Female,125
+2007,Physical sciences,Male,169
+2007,Physical sciences,Female,98
+2007,Social sciences,Male,290
+2007,Social sciences,Female,322
+2007,Engineering,Male,712
+2007,Engineering,Female,220
+2006,Biological sciences,Male,339
+2006,Biological sciences,Female,415
+2006,Computer sciences,Male,328
+2006,Computer sciences,Female,83
+2006,Mathematics and statistics,Male,201
+2006,Mathematics and statistics,Female,125
+2006,Physical sciences,Male,169
+2006,Physical sciences,Female,89
+2006,Social sciences,Male,346
+2006,Social sciences,Female,481
+2006,Engineering,Male,662
+2006,Engineering,Female,191
+2005,Biological sciences,Male,354
+2005,Biological sciences,Female,417
+2005,Computer sciences,Male,284
+2005,Computer sciences,Female,81
+2005,Mathematics and statistics,Male,206
+2005,Mathematics and statistics,Female,103
+2005,Physical sciences,Male,170
+2005,Physical sciences,Female,89
+2005,Social sciences,Male,317
+2005,Social sciences,Female,318
+2005,Engineering,Male,622
+2005,Engineering,Female,173
+2004,Biological sciences,Male,356
+2004,Biological sciences,Female,418
+2004,Computer sciences,Male,278
+2004,Computer sciences,Female,94
+2004,Mathematics and statistics,Male,178
+2004,Mathematics and statistics,Female,71
+2004,Physical sciences,Male,188
+2004,Physical sciences,Female,88
+2004,Social sciences,Male,304
+2004,Social sciences,Female,303
+2004,Engineering,Male,586
+2004,Engineering,Female,181
+2003,Biological sciences,Male,106
+2003,Biological sciences,Female,153
+2003,Computer sciences,Male,244
+2003,Computer sciences,Female,63
+2003,Mathematics and statistics,Male,191
+2003,Mathematics and statistics,Female,69
+2003,Physical sciences,Male,187
+2003,Physical sciences,Female,69
+2003,Social sciences,Male,180
+2003,Social sciences,Female,183
+2003,Engineering,Male,573
+2003,Engineering,Female,186
+2002,Biological sciences,Male,102
+2002,Biological sciences,Female,145
+2002,Computer sciences,Male,187
+2002,Computer sciences,Female,47
+2002,Mathematics and statistics,Male,161
+2002,Mathematics and statistics,Female,71
+2002,Physical sciences,Male,191
+2002,Physical sciences,Female,65
+2002,Social sciences,Male,175
+2002,Social sciences,Female,195
+2002,Engineering,Male,487
+2002,Engineering,Female,159
+2001,Biological sciences,Male,92
+2001,Biological sciences,Female,109
+2001,Computer sciences,Male,172
+2001,Computer sciences,Female,50
+2001,Mathematics and statistics,Male,126
+2001,Mathematics and statistics,Female,47
+2001,Physical sciences,Male,168
+2001,Physical sciences,Female,62
+2001,Social sciences,Male,179
+2001,Social sciences,Female,203
+2001,Engineering,Male,472
+2001,Engineering,Female,138
+2000,Biological sciences,Male,139
+2000,Biological sciences,Female,195
+2000,Computer sciences,Male,150
+2000,Computer sciences,Female,26
+2000,Mathematics and statistics,Male,91
+2000,Mathematics and statistics,Female,43
+2000,Physical sciences,Male,148
+2000,Physical sciences,Female,49
+2000,Social sciences,Male,324
+2000,Social sciences,Female,328
+2000,Engineering,Male,453
+2000,Engineering,Female,116
+1999,Biological sciences,Male,176
+1999,Biological sciences,Female,301
+1999,Computer sciences,Male,150
+1999,Computer sciences,Female,26
+1999,Mathematics and statistics,Male,87
+1999,Mathematics and statistics,Female,37
+1999,Physical sciences,Male,142
+1999,Physical sciences,Female,45
+1999,Social sciences,Male,334
+1999,Social sciences,Female,312
+1999,Engineering,Male,479
+1999,Engineering,Female,126
+1998,Biological sciences,Male,177
+1998,Biological sciences,Female,270
+1998,Computer sciences,Male,114
+1998,Computer sciences,Female,19
+1998,Mathematics and statistics,Male,103
+1998,Mathematics and statistics,Female,45
+1998,Physical sciences,Male,151
+1998,Physical sciences,Female,45
+1998,Social sciences,Male,367
+1998,Social sciences,Female,381
+1998,Engineering,Male,511
+1998,Engineering,Female,112
+1997,Biological sciences,Male,260
+1997,Biological sciences,Female,297
+1997,Computer sciences,Male,75
+1997,Computer sciences,Female,11
+1997,Mathematics and statistics,Male,74
+1997,Mathematics and statistics,Female,24
+1997,Physical sciences,Male,152
+1997,Physical sciences,Female,50
+1997,Social sciences,Male,348
+1997,Social sciences,Female,307
+1997,Engineering,Male,556
+1997,Engineering,Female,113
+1996,Biological sciences,Male,234
+1996,Biological sciences,Female,217
+1996,Computer sciences,Male,139
+1996,Computer sciences,Female,19
+1996,Mathematics and statistics,Male,93
+1996,Mathematics and statistics,Female,29
+1996,Physical sciences,Male,153
+1996,Physical sciences,Female,53
+1996,Social sciences,Male,427
+1996,Social sciences,Female,288
+1996,Engineering,Male,583
+1996,Engineering,Female,95
+1995,Biological sciences,Male,244
+1995,Biological sciences,Female,189
+1995,Computer sciences,Male,153
+1995,Computer sciences,Female,28
+1995,Mathematics and statistics,Male,89
+1995,Mathematics and statistics,Female,28
+1995,Physical sciences,Male,161
+1995,Physical sciences,Female,54
+1995,Social sciences,Male,395
+1995,Social sciences,Female,326
+1995,Engineering,Male,458
+1995,Engineering,Female,55
+1994,Biological sciences,Male,255
+1994,Biological sciences,Female,204
+1994,Computer sciences,Male,133
+1994,Computer sciences,Female,32
+1994,Mathematics and statistics,Male,83
+1994,Mathematics and statistics,Female,26
+1994,Physical sciences,Male,163
+1994,Physical sciences,Female,57
+1994,Social sciences,Male,459
+1994,Social sciences,Female,295
+1994,Engineering,Male,502
+1994,Engineering,Female,70
