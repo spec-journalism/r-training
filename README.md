@@ -7,3 +7,14 @@ Read and follow the instructions in the first six pages of [A (very) short intro
 Now that you've installed R and RStudio, you'll need to install the tidyverse library. (The tidyverse is a collection of R packages designed for data analysis). In the console, run `install.packages(c("tidyverse", "jsonlite))` to download and install the tidyverse and a JSON reader. Every time you open RStudio, you have to run `library(tidyverse)`, either in the console or a script, to be able to use these packages.
 
 That's it! See you at the workshop.
+
+## Setup
+
+1. Clone this repository by running the following command in the terminal:
+```
+git clone https://github.com/spec-journalism/r-training
+```
+
+2. Open RStudio. Go to `File > New Project... > Existing Directory`. Make the project working directory the `r-training` directory you just made. Then click "Create Project".
+
+3. Make a new RMarkdown file (`File > New File > RMarkdown...`). Set the title to "Week 4 Workshop", then click OK.
