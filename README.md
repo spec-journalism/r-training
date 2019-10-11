@@ -1,6 +1,6 @@
 # R Training Prerequisites
 
-If you haven't already, make an account on GitHub and text me your username so I can add you to our organization (my number is (347) 933-1820). GitHub is where most of your future coding, data analysis, and data visualization will live.
+If you haven't already, make an account on GitHub and text me your username so I can add you to our organization. GitHub is where most of your future coding, data analysis, and data visualization will live.
 
 Read and follow the instructions in the first six pages of [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf). I will assume that you will come into the workshop knowing the basics of R and RStudio.
 
